@@ -114,9 +114,6 @@ This project focuses on configuring Network Security Groups (NSGs) in Azure and 
 </p>
 <br />
 
-<h2>Lessons Learned </h2>
+<h2>Lessons that were Learned </h2>
 
-The goal of the lab was to observe how different protocols and ports are used in network communication between devices.
-Although the lab didn’t focus on troubleshooting, it provided valuable information.
-I learned that troubleshooting requires tools like Wireshark and the command line to understand how traffic flows through network ports and protocols.
-I realized that success in troubleshooting depends on both familiarity with the tools and maintaining an inquisitive mindset.
+The goal of the lab was to observe how different protocols and ports facilitate network communication between devices. Although troubleshooting was not the primary focus, the lab provided valuable insight into how network traffic moves across different ports and protocols. I learned that effective troubleshooting requires tools such as Wireshark and command-line utilities to analyze traffic and identify potential issues. Most importantly, I realized that successful troubleshooting depends not only on familiarity with these tools but also on maintaining an inquisitive mindset, asking questions, and investigating the underlying causes of network behavior.
