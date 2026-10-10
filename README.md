@@ -61,7 +61,7 @@ This project focuses on configuring Network Security Groups (NSGs) in Azure and 
 <br />
 
 <p>
-<img src="https://i.imgur.com/16ERkju.png" height="80%" width="80%" alt="Azure Networking Steps"/>
+
 </p>
 <p>
 <br />-Access the networking settings for the Ubuntu VM in the Azure portal.<br />
