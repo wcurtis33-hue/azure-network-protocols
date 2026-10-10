@@ -57,11 +57,6 @@ This project focuses on configuring Network Security Groups (NSGs) in Azure and 
 <br />-Open PowerShell and run the ping command to test network communication.<br />
 <br />-Test communication with the Ubuntu VM using its private IP and with google.com.<br />
 <br />-Initiate a continuous ping to the Ubuntu VM using: ping -t (IP address) to observe network security groups.<br />
-</p>
-<br />
-
-</p>
-<p>
 <br />-Access the networking settings for the Ubuntu VM in the Azure portal.<br />
 <br />-Create an inbound security rule to block ICMP traffic.<br />
 <br />-Set the rule's priority higher than SSH (300) to ensure it takes precedence.<br /> 
